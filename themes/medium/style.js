@@ -12,6 +12,8 @@ const Style = () => {
         background-color: black;
     }
 
+    //字号大小
+    font-size: medium;
   `}</style>
 }
 
