@@ -13,7 +13,7 @@ const Style = () => {
     }
 
     //字号大小
-    font-size: medium;
+    font-size: large;
   `}</style>
 }
 
